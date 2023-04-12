@@ -94,5 +94,3 @@ augroup END
 
 syntax enable
 
-colorscheme pencil
-
